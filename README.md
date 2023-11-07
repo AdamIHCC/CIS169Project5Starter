@@ -3,7 +3,7 @@
 - [Fork this repo](https://github.com/sorrymint/CIS169Project5Starter)
 - Clone down to local computer
 ## Running the project
-- Run the program and in the web browser manually change the URL to `localhost:9999/courses`
+- Run the program and in the web browser manually change the URL to `localhost:xxxx/courses`
 - Test out CRUD
 
 ## Where to look for help
